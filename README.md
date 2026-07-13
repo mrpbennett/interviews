@@ -29,9 +29,9 @@ All questions use the `/users` endpoint.
 ```bash
 p=2026
 s='cHVsc2Vwb2ludGlzYXdlc29tZQ=='
-domain='gtm-env.vercel.app'
+domain='cloudpetal.io'
 
-curl -s "https://upright-devotion-sterility.ngrok-free.dev/users?p=$p&s=$s" \
+curl -s "https://upright-devotion-sterility.ngrok-free.dev/domains?p=$p&s=$s" \
   --header "Referer: $domain"
 ```
 
