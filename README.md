@@ -37,7 +37,7 @@ curl -s "https://api.somedomain.com/users?p=$p&s=$s" \
 ### Question:
 
 Using the above curl command, how would you test a list of 10 domains (these don't have to be real domains) with the same variable values? 
-What steps could you take to achieve this? Can you share your screen and show us within a text editor?
+What steps could you take to achieve this? Can you share your screen and show us within a text editor? Or tell us the logic you may use to achieve the end goal.
 
 #### Hint! 
 Bash, Python.....AI
