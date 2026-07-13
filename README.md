@@ -2,7 +2,7 @@
 
 [SQL Tests](https://tam-sqltests.vercel.app/)
 
-10 SQL tasks to complete.
+10 SQL tasks to complete. This shouldn't take more than 5-10mins to finish
 
 ## Task 2
 
