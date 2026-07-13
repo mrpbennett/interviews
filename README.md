@@ -34,10 +34,23 @@ domain='gtm-env.vercel.app'
 curl -s "https://api.somedomain.com/users?p=$p&s=$s" \
   --header "Referer: $domain"
 ```
+
+**10 Domains**
+```
+"cloudpetal.io"
+"frostbyte.dev"
+"nomadledger.com"
+"vaultspring.net"
+"hexdrift.co"
+"pinewave.org"
+"irongate.app"
+"lunarstack.dev"
+"quickmarsh.net"
+"emberflow.io"
+```
 ### Question:
 
-Using the above curl command, how would you test a list of 10 domains (these don't have to be real domains) with the same variable values? 
-What steps could you take to achieve this? Can you share your screen and show us within a text editor? Or tell us the logic you may use to achieve the end goal.
+How would you test the list of the domains above with the same curl command and variable values, what steps could you take to achieve this? 
+Can you share your screen and show us within a text editor? Or tell us the logic you may use to achieve the end goal.
 
-#### Hint! 
-Bash, Python.....AI
+You have full creative freedom. No need to test the code!
