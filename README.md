@@ -27,8 +27,8 @@ All questions use the `/users` endpoint.
 ## Task 3
 
 ```bash
-p=1024
-s='MTc3ODUxOTA5NDYzMw=='
+p=2026
+s='cHVsc2Vwb2ludGlzYXdlc29tZQ=='
 domain='gtm-env.vercel.app'
 
 curl -s "https://upright-devotion-sterility.ngrok-free.dev/users?p=$p&s=$s" \
