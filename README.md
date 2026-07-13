@@ -1,4 +1,30 @@
-# task
+## Task 1
+
+[SQL Tests](https://tam-sqltests.vercel.app/)
+
+10 SQL tasks to complete.
+
+## Task 2
+
+```txt
+https://upright-devotion-sterility.ngrok-free.dev
+```
+
+`GET /users`
+
+| Query param | Required | Values                  | Effect                                      |
+| ----------- | -------- | ------------------------ | -------------------------------------------- |
+| `active`    | no       | `true` or `false`         | filter by state (`active` vs `blocked`)      |
+| `country`   | no       | any string, case-insensitive | filter by country                        |
+
+
+All questions use the `/users` endpoint.
+
+-  Q1 — Pull only active users
+-  Q2 — Pull only users from a country, case-insensitively
+-  Q3 — Combine both filters: active users from a specific country
+
+## Task 3
 
 ```bash
 p=1024
