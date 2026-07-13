@@ -50,7 +50,7 @@ curl -s "https://upright-devotion-sterility.ngrok-free.dev/domains?p=$p&s=$s" \
 ```
 ### Question:
 
-How would you test the list of the domains above with the same curl command and variable values, what steps could you take to achieve this? 
+How would you test the list of the domains above with the same curl command and `p` / `s` variable values, what steps could you take to achieve this? 
 Can you share your screen and show us within a text editor? Or tell us the logic you may use to achieve the end goal.
 
 You have full creative freedom. No need to test the code!
