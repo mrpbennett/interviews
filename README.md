@@ -21,8 +21,8 @@ https://upright-devotion-sterility.ngrok-free.dev
 All questions use the `/users` endpoint.
 
 -  Q1 — Pull only active users
--  Q2 — Pull only users from a country, case-insensitively
--  Q3 — Combine both filters: active users from a specific country
+-  Q2 — Pull only users from one of the following countries: 'england', 'usa', `spain`, `china`, `india`, `russia` or `brazil`, case-insensitively
+-  Q3 — Combine both filters: `active` users from the country `england`
 
 ## Task 3
 
@@ -36,7 +36,8 @@ curl -s "https://api.somedomain.com/users?p=$p&s=$s" \
 ```
 ### Question:
 
-Using the above curl command, how would you test a list of 10 domains (these don't have to be real domains) with the same values? What steps could you take to achieve this? Could you share your screen and show us within a text editor?
+Using the above curl command, how would you test a list of 10 domains (these don't have to be real domains) with the same variable values? 
+What steps could you take to achieve this? Can you share your screen and show us within a text editor?
 
 #### Hint! 
 Bash, Python.....AI
