@@ -31,7 +31,7 @@ p=1024
 s='MTc3ODUxOTA5NDYzMw=='
 domain='gtm-env.vercel.app'
 
-curl -s "https://api.somedomain.com/users?p=$p&s=$s" \
+curl -s "https://upright-devotion-sterility.ngrok-free.dev/users?p=$p&s=$s" \
   --header "Referer: $domain"
 ```
 
