@@ -18,7 +18,7 @@
 All questions use the `/users` endpoint.
 
 -  Q1 — Pull only active users
--  Q2 — Pull only users from one of the following countries: `england`, `usa`, `spain`, `china`, `india`, `russia` or `brazil`, case-insensitively
+-  Q2 — Pull only users from one of the following countries: `england`, `usa`, `spain`, `china`, `india`, `russia` or `brazil`
 -  Q3 — Combine both filters: `active` users from the country `england`
 
 ## Task 3
