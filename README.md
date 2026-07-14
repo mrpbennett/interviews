@@ -1,8 +1,12 @@
+# Interview tasks
+
+These tasks are here for you to complete to measure your skill level, these are not a pass or fail but more to help us gauge where you are at with your current skill level.
+
 ## Task 1
 
 [SQL Tests](https://tam-sqltests.vercel.app/)
 
-10 SQL tasks to complete. This shouldn't take more than 5-10mins to finish
+10 SQL questions to complete. 
 
 ## Task 2
 
