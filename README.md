@@ -4,9 +4,7 @@ These tasks are here for you to complete to measure your skill level, these are 
 
 ## Task 1
 
-[SQL Tests](https://tam-sqltests.vercel.app/)
-
-10 SQL questions to complete. 
+Please visit [SQL Tests](https://tam-sqltests.vercel.app/) to get started with 10 SQL querying tasks.
 
 ## Task 2
 
@@ -51,7 +49,8 @@ curl -s "https://upright-devotion-sterility.ngrok-free.dev/domains?p=$p&s=$s" \
 ```
 ### Question:
 
-How would you test the list of the domains above with the same curl command and `p` / `s` variable values, what steps could you take to achieve this? 
+What thought process would you use to test the list of the domains above with the same curl command and `p` / `s` variable values, what steps could you take to achieve this? 
+
 Can you share your screen and show us within a text editor? Or tell us the logic you may use to achieve the end goal.
 
 You have full creative freedom. If you want to write a script and test be our guest.
