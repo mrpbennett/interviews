@@ -6,12 +6,8 @@
 
 ## Task 2
 
-BaseURL: 
-```txt
-https://upright-devotion-sterility.ngrok-free.dev
-```
-
-`GET /users`
+BaseURL: `https://upright-devotion-sterility.ngrok-free.dev`
+Endpoint: `GET /users`
 
 | Query param | Required | Values                  | Effect                                      |
 | ----------- | -------- | ------------------------ | -------------------------------------------- |
