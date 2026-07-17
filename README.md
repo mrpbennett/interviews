@@ -4,7 +4,7 @@ These tasks are here for you to complete to measure your skill level, these are 
 
 ## Task 1
 
-Please visit [SQL Tests](https://tam-sqltests.vercel.app/) to get started with 10 SQL querying tasks.
+Please visit [SQL Tests](https://se-interview-tasks.vercel.app) to get started with 10 SQL querying tasks.
 
 ## Task 2
 
