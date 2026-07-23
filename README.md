@@ -94,6 +94,7 @@ The Task: What thought process would you use to test the list of the domains abo
 6. Return JSON only — no explanation, no markdown fences
 
 Format:
+```json
 {
   "question": "<restate what the candidate needs to identify>",
   "options": [
@@ -103,5 +104,4 @@ Format:
     { "id": "D", "text": "<answer>", "correct": false },
     { "id": "E", "text": "<answer>", "correct": false }
   ]
-}
-
+}```
