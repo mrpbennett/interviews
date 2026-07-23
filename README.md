@@ -96,8 +96,8 @@ The Task: What thought process would you use to test the list of the domains abo
 
 Question: <restate what the candidate needs to identify>
 
-A) <answer>
-B) <answer>
-C) <answer>
-D) <answer>
-E) <answer>
+- A) <answer>
+- B) <answer>
+- C) <answer>
+- D) <answer>
+- E) <answer>
