@@ -91,17 +91,13 @@ The Task: What thought process would you use to test the list of the domains abo
 3. Distractors must look believable — common mistakes, subtle logic errors, wrong edge case handling, plausible-but-off outputs
 4. Do NOT make distractors obviously wrong — a candidate who guessed or used AI without understanding should be able to pick the wrong one
 5. Shuffle the correct answer randomly across A–E
-6. Return JSON only — no explanation, no markdown fences
+6. Any code, output, or values in the options must be wrapped in backticks
+7. Return plain text only in this exact format — no JSON, no markdown, no extra commentary:
 
-Format:
-```json
-{
-  "question": "<restate what the candidate needs to identify>",
-  "options": [
-    { "id": "A", "text": "<answer>", "correct": false },
-    { "id": "B", "text": "<answer>", "correct": false },
-    { "id": "C", "text": "<answer>", "correct": true },
-    { "id": "D", "text": "<answer>", "correct": false },
-    { "id": "E", "text": "<answer>", "correct": false }
-  ]
-}```
+Question: <restate what the candidate needs to identify>
+
+A) <answer>
+B) <answer>
+C) <answer>
+D) <answer>
+E) <answer>
