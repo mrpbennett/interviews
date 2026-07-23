@@ -8,7 +8,7 @@ Please visit [SQL Tests](https://se-interview-tasks.vercel.app) to get started w
 
 ## Task 2
 
-- BaseURL: `https://upright-devotion-sterility.ngrok-free.dev`
+- BaseURL: [`https://upright-devotion-sterility.ngrok-free.dev`](https://upright-devotion-sterility.ngrok-free.dev)
 - Endpoint: `GET /users`
 
 | Query param | Required | Values                  | Effect                                      |
