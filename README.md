@@ -24,7 +24,6 @@ All questions use the `/users` endpoint.
 -  Q3 — Combine both filters: `active` users from the country `england`
 
 ## Task 3
-
 ```bash
 p=2026
 s='cHVsc2Vwb2ludGlzYXdlc29tZQ=='
@@ -57,21 +56,20 @@ You have full creative freedom. If you want to write a script and test be our gu
 
 #### Using AI
 
+```md
 You are a technical assessment assistant. Given a code challenge, you must:
 
-The Code Challenge:
+## The Code Challenge:
 
-```bash
 p=2026
 s='cHVsc2Vwb2ludGlzYXdlc29tZQ=='
 domain='cloudpetal.io'
 
 curl -s "https://upright-devotion-sterility.ngrok-free.dev/domains?p=$p&s=$s" \
   --header "Referer: $domain"
-```
 
-**10 Domains**
-```
+## 10 Domains
+
 "cloudpetal.io"
 "frostbyte.dev"
 "nomadledger.com"
@@ -82,7 +80,7 @@ curl -s "https://upright-devotion-sterility.ngrok-free.dev/domains?p=$p&s=$s" \
 "lunarstack.dev"
 "quickmarsh.net"
 "emberflow.io"
-```
+
 
 The Task: What thought process would you use to test the list of the domains above with the same curl command and `p` / `s` variable values, what steps could you take to achieve this? 
 
@@ -101,3 +99,4 @@ Question: <restate what the candidate needs to identify>
 - C) <answer>
 - D) <answer>
 - E) <answer>
+```
